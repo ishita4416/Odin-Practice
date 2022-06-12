@@ -1,0 +1,19 @@
+.odd{
+    background-color: rgba(255, 182, 193, 0.904);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#el2{
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.odd.cooler{
+    font-size: 24px;
+}
+
+#el4{
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
